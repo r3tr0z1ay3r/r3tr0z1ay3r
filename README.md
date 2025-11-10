@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Final Year Student pursing a bachelor degree in Artificial Intelligence and Data Science<br>With a passion towards computer and a love for coding.<br>Curious enough to learn new things at a rapid pace 
+A graduate with a Bachelor's Degree in Artificial Intelligence and Data Science<br>With a passion towards computer and a love for coding.<br>Curious enough to learn new things at a rapid pace 
 
 
 ## 🌐 Socials:
